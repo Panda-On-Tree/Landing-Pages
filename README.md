@@ -1,5 +1,4 @@
 
-<h1>Check out my static HTML pages.</h1>
 
 <h3> 1. Beverages: </h3>
 <p align="center">
